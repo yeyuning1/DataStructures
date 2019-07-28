@@ -110,10 +110,10 @@ if __name__ == '__main__':
     ll = SingleLinkList(node)
     print(ll.is_empty())
     print(ll.length())
-
+    ll.add(1)
     ll.append(3)
     ll.add(4)
-    ll.insert(-2,111)
+    ll.insert(-2, 111)
     ll.travel()
     ll.remove(4)
     ll.travel()
