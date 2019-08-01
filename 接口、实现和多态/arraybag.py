@@ -78,4 +78,4 @@ class ArrayBag(object):
         for i in range(targetIndex, len(self) -1):
             self._items[i] = self._items[i + 1]
 
-        self._size -= 1q
+        self._size -= 1
