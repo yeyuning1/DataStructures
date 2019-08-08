@@ -3,8 +3,8 @@ File: testbag.py
 Author: Yeyuning
 A tester program for bag implementations.
 """
-from BagAPI.arraybag import ArrayBag
-from BagAPI.linkedbag import LinkedBag
+from Bag.arraybag import ArrayBag
+from Bag.linkedbag import LinkedBag
 
 
 # def test(bagType):
