@@ -1,3 +1,6 @@
+"""
+FizzBuzz问题
+"""
 l1 = []
 for x in range(1,101):
     if x % 3 == 0 and x % 5 == 0:
