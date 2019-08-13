@@ -12,3 +12,7 @@ for x in range(1,101):
     else:
         l1.append('%d' % x)
 print(l1)
+
+
+with open() as f:
+    f.write()
